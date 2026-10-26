@@ -268,3 +268,4 @@ dt{font-weight:700;color:var(--navy)}dd{color:var(--muted)}
   .tabs button{flex:1;padding:10px 10px;font-size:14px}
   .prod-h{flex-direction:column}
 }
+.foot address{font-style:normal;line-height:1.7}
